@@ -1,0 +1,11 @@
+id,label,success,error,cv_score,cover_letter_score,overall_score,iterations,helpfulness,honesty,harmlessness,hhh_score,output_quality,keyword_match,comments,elapsed_seconds,verdict,missing_keywords
+1,SpringBoot Backend Engineer,True,,95,90,92,1,9,10,10,9.67,9,9,The CV and cover letter are strong and closely align with the job requirements.,19.66,PASS,
+2,Node.js Engineer,True,,90,88,89,1,9,10,10,9.67,9,9,The documents effectively highlight relevant experience and skills for the Backend Engineer position.,14.36,PASS,
+3,Cloud Engineer AWS,True,,90,88,89,1,9,10,10,9.67,8,9,The documents effectively highlight relevant experience and skills for the Cloud Backend Engineer position.,18.68,PASS,
+4,Full Stack Engineer,True,,90,88,89,1,9,10,10,9.67,9,10,The CV and cover letter are well-aligned with the job description and demonstrate relevant experience and skills.,15.1,PASS,
+5,DevOps Engineer,True,,90,88,89,1,9,10,10,9.67,9,10,The documents are strong and closely align with the job requirements.,13.97,PASS,
+6,Data Engineer,True,,90,88,89,1,9,10,10,9.67,9,9,The documents effectively highlight relevant experience and skills aligned with the job description.,14.28,PASS,
+7,Machine Learning Engineer,True,,85,90,87,2,9,9,10,9.33,8,9,The CV and cover letter effectively highlight relevant skills and experiences for the Machine Learning Engineer position.,30.71,PASS,
+8,API Platform Engineer,True,,90,88,89,1,9,10,10,9.67,9,9,The CV and cover letter effectively highlight relevant experience and skills for the API Platform Engineer position.,17.76,PASS,
+9,Site Reliability Engineer,True,,90,88,89,1,9,10,10,9.67,9,9,The CV and cover letter effectively highlight relevant experience and skills for the SRE position.,16.83,PASS,
+10,Junior Backend Engineer,True,,85,90,87,1,9,9,10,9.33,8,9,The CV and cover letter effectively highlight relevant skills and experiences for the Junior Backend Engineer position.,17.44,PASS,
